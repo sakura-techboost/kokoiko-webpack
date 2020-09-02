@@ -1,0 +1,61 @@
+.container {
+  margin: 0 auto;
+  padding: 0;
+}
+
+.navbar li {
+  height: 100%;
+}
+
+.navbar li:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.navbar li:active {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.navigation li {
+  display: inline-block;
+  width: 25%;
+  text-align: center;
+}
+
+.fa-heart:hover {
+  color: #ff1493;
+}
+
+.fa-star:hover {
+  color: #ffa500;
+}
+
+.fa-heart-broken:hover {
+  color: #191970;
+}
+
+.fa-plus:hover {
+  color: #00ff7f;
+}
+
+.card-body {
+  text-align: left;
+}
+
+.card-title {
+  margin-bottom: 0;
+}
+
+.card-title,
+.card-subtitle,
+.card-text {
+  padding: 10px;
+}
+
+p {
+  margin: 0;
+}
+
+.search-bar button {
+  text-align: center;
+}
+
