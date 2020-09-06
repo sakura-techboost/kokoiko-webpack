@@ -57,11 +57,12 @@
         </header> 
         {{-- コンテンツ 上下のパディング1rem --}}
         <main>
-            <div class="container">
-                 @yield('content')
+            <div id="app">
+                <div class="container">
+                    @yield('content')
+                </div>
             </div>
-           
         </main>
-
-
+        
     </body>
+</html>

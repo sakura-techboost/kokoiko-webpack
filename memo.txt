@@ -1,0 +1,11 @@
+住所登録フォーム
+名称→Q_Place
+都道府県→Q_Prefectures
+市区町村→Q_Cities
+番地以下→Q_Address
+電話番号→Q_PhoneNumber
+カテゴリ→Q_Categories
+概要→Q_Overview
+登録先→Q_SaveFolder
+公開・非公開 name→status id→public/private
+関心度→Q_Attention
